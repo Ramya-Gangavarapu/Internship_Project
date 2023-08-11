@@ -23,9 +23,6 @@ To run the vehicle detection, follow these steps:
 3. Provide the path to the video file in the respective sections of the code.
 4. Run the Python script and observe the real-time vehicle detection in action.
 
-## Contributing
-
-We welcome contributions to enhance the project's capabilities, add new features, or improve the code structure. 
 
 ## Future Enhancements
 
