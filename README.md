@@ -1,4 +1,14 @@
 # Advance Driver Assistance System
+
+# TEAM MEMBERS
+G. Ramya
+
+Padmavathi
+
+Shubhadip
+
+Jagadeesh
+
 ## Real-Time Vehicle Detection using OpenCV
 
 Welcome to the Real-Time Vehicle Detection project, where we leverage the power of OpenCV's computer vision capabilities to detect various types of vehicles in video streams. This project showcases the implementation of Haar cascade classifiers to identify two-wheelers, buses, and cars in real-time videos.
